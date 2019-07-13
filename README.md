@@ -1,6 +1,6 @@
 # NEWS APP
 
-##License
+## License
 This application is available as open source under the terms of the MIT License.
 
 <!-- # README
