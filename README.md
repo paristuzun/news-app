@@ -1,7 +1,6 @@
 # NEWS APP
 
-## License
-This application is available as open source under the terms of the MIT License.
+Powered by [NewsAPI.org](https://newsapi.org/).
 
 <!-- # README
 
